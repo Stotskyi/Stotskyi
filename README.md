@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GlobalTradeHub](https://github.com/Stotskyi/GlobalTradeHub)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **andrii.stotskyi.u@gmail.com**
 
